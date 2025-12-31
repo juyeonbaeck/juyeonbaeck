@@ -68,6 +68,7 @@
                     <td align="left">
                         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
                         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+                        <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white">
                     </td>
                     <td align="left">
                     </td>
@@ -95,7 +96,7 @@
                     <td align="left">
                         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
                         <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white">
-                        <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VirtualBox&logoColor=white">
+                        <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white">
                     </td>
                     <td align="left">
                         <img src="https://img.shields.io/badge/OpenStack-DA291C?style=flat-square&logo=OpenStack&logoColor=white">
@@ -137,19 +138,20 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="> </a>
-         <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link="> </a>
-         <a href=> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link="> </a>
+         <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@juyeon/posts"> </a>
          <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
-         <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"> </a>
+         <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juyeon.it@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuyeon%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
 </div>
     
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=juyeon&custom_title=juyeon's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeon&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">
+        <img src="https://github-readme-stats.vercel.app/api?username=juyeon&custom_title=juyeon's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeon&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          />
+    </div> 
 </div>
     
