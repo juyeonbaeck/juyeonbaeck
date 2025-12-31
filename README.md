@@ -82,11 +82,11 @@
                 <tr>
                     <td align="left"><b>DevOps</b></td>
                     <td align="left">
+                    </td>
+                    <td align="left">
                         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
                         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
                         <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
-                    </td>
-                    <td align="left">
                         <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=Red%20Hat%20OpenShift&logoColor=white">
                     </td>
                 </tr>
@@ -95,6 +95,7 @@
                     <td align="left">
                         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
                         <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white">
+                        <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VirtualBox&logoColor=white">
                     </td>
                     <td align="left">
                         <img src="https://img.shields.io/badge/OpenStack-DA291C?style=flat-square&logo=OpenStack&logoColor=white">
@@ -104,6 +105,7 @@
                     <td align="left"><b>Tools</b></td>
                     <td align="left">
                         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
+                        <img src="https://img.shields.io/badge/eclipse%20ide-2C2255?&style=flat-square&logo=eclipse%20ide&logoColor=white" />
                         <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
                         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
                         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
@@ -130,8 +132,7 @@
                 </tr>
             </tbody>
         </table>
-        
-    </div>
+
 </div>
 
 <div style="text-align: left;">
