@@ -6,11 +6,11 @@
     <tr>
         <td width="60%" valign="top">
         <div>
-            <h3>🧑‍💻 About Me</h3>
+            <h1>🧑‍💻 About Me</h1>
             <a href="https://git.io/typing-svg">
                 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6A5ACD&width=435&lines=Creative+Developer;Fast+Learner;Open+Source+Contributor" alt="Typing SVG" />
             </a>
-            <h3>🛠️ Tech Stack</h3>
+            <h2>🛠️ Tech Stack</h2>
             <div style="margin: ; align: center;">
             <table>
                 <thead>
