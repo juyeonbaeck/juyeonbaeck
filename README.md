@@ -3,14 +3,14 @@
 </div>
     
 <div> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi Im juyeon </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Welcome to my page </div> 
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to my page </h1>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Im learning DevOps- </div> 
 </div>
 <br/>
 <br/>
     
 <div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h1> <br> 
     <div style="margin: ; align: center;">
         <table>
             <thead>
@@ -135,19 +135,24 @@
                 </tr>
             </tbody>
         </table>
-
+    </div>
 </div>
+
+<br/>
+<br/>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-         <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@juyeon/posts"> </a>
-         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
-         <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juyeon.it@gmail.com"> </a>
-          </div>  <br> 
-           
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h1>
+    <br>
+    <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@juyeon/posts"> </a>
+    <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
+    <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juyeon.it@gmail.com"> </a>
 </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+<br/>
+<br/>
+
+<div style="text-align: left;"> 
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h1> 
     <div style="text-align: left;" align="center;">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juyeonbaeck&theme=dracula&show_icons=true" />
         <br/>
