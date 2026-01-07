@@ -1,15 +1,13 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=GITHUB%20by%20Juyeon&animation=fadeIn&fontColor=000000&fontSize=35" width="100%" />
 </div>
-
-<table border="0" width="100%">
-    <tr>
-        <td width="60%" valign="top">
         <div>
             <h1>🧑‍💻 About Me</h1>
             <a href="https://git.io/typing-svg">
                 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6A5ACD&width=435&lines=Creative+Developer;Fast+Learner;Open+Source+Contributor" alt="Typing SVG" />
             </a>
+        </div>
+        <br>
             <h2>🛠️ Tech Stack</h2>
             <div style="margin: ; align: center;">
             <table>
@@ -136,20 +134,7 @@
                 </tbody>
             </table>
         </div>
-           
-                
-        </td>
-        <td>
-        </td>
-    </tr>
-            
-        <h3></h3>
-        </div>
-        
-    
-    </tr>
-
-
+           <br>
 <div style="text-align: left;">
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h1>
     <br>
