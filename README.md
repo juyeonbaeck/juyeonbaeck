@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=GITHUB%20by%20Juyeon&animation=fadeIn&fontColor=000000&fontSize=35" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=GITHUB%20by%20Juyeon&animation=fadeIn&fontColor=000000&fontSize=35" width="100%" />
 </div>
     
 <div> 
@@ -157,5 +157,7 @@
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juyeonbaeck&theme=dracula&show_icons=true" />
         <br/>
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juyeonbaeck&layout=compact&theme=dark" />
-    </div> 
+    </div>
+    
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
