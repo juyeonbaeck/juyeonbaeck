@@ -15,9 +15,9 @@
             <table>
                 <thead>
                     <tr>
-                        <th align="left">Category</th>
-                        <th align="left">🚀 Experienced</th>
-                        <th align="left">📚 Currently Learning</th>
+                        <th align="left" width="15%">Category</th>
+                        <th align="left" width="50%">🚀 Experienced</th>
+                        <th align="left" width="35%">📚 Currently Learning</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -136,8 +136,7 @@
                 </tbody>
             </table>
         </div>
-            
-        </div>
+           
                 
         </td>
         <td>
@@ -150,23 +149,6 @@
     
     </tr>
 
-
-    
-    <div> 
-        <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to my page </h1>  
-        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Im learning DevOps- </div> 
-    </div>
-    
-    <br/>
-    <br/>
-        
-    <div>
-        <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h1> <br> 
-        
-    </div>
-
-<br/>
-<br/>
 
 <div style="text-align: left;">
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h1>
