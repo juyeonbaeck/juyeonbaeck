@@ -16,7 +16,7 @@
                 <thead>
                     <tr>
                         <th align="left" width="10%">Category</th>
-                        <th align="left" width="45%">🚀 Experienced</th>
+                        <th align="left" width="40%">🚀 Experienced</th>
                         <th align="left" width="30%">📚 Currently Learning</th>
                     </tr>
                 </thead>
