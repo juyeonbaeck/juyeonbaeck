@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=GITHUB%20by%20Juyeon&animation=fadeIn&fontColor=000000&fontSize=35" width="100%" />
 </div>
         <div>
-            <h1>🧑‍💻 About Me</h1>
+            <h2>🧑‍💻 About Me</h2>
             <a href="https://git.io/typing-svg">
                 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6A5ACD&width=435&lines=Creative+Developer;Fast+Learner;Open+Source+Contributor" alt="Typing SVG" />
             </a>
