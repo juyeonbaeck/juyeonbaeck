@@ -204,14 +204,10 @@ status:      🟢 Actively looking for opportunities
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+![Juyeon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juyeonbaeck&theme=tokyo-night&hide_border=true)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=juyeonbaeck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeonbaeck&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
+<!-- Streak: demolab은 별도 서버라 정상 작동 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=juyeonbaeck&theme=tokyonight&hide_border=true&date_format=Y.n.j)](https://git.io/streak-stats)
 
 </div>
@@ -222,11 +218,9 @@ status:      🟢 Actively looking for opportunities
 
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeonit)](https://solved.ac/juyeonit)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=loooq30)](https://solved.ac/loooq30)
 
 </div>
-
-> 📌 **백준 아이디가 다르다면** `juyeonit` 부분을 본인 ID로 교체하세요.
 
 ---
 
